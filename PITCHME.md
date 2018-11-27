@@ -17,3 +17,32 @@
   * Techniques for making challenging content accessible
 
 ---
+
+## Outline
+
+* What is web accessibility?
+* What I wish I had known sooner
+* Message of hope
+
+Notes:
+
+I have three and a half points I’m going to touch on today.  Half a point will go to my definition of web accessibility, how I regard this work and this cause as I’ve learned and taught about it over the years.  Two more will be about what I wish I’d known sooner; the easy stuff and the hard stuff respectively, and finally it is my wish to leave you all with a message of hope about your interest and work in this field.
+
+---
+
+## What is web accessibility?
+
+“Web accessibility means that people with disabilities can use the web.”
+- Tim Berners-Lee
+
+---
+
+## What is web accessibility?
+
+* POUR
+  * Perceivable
+  * Operable
+  * Understandable
+  * Robust
+
+---
