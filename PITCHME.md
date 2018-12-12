@@ -77,6 +77,10 @@ There is the concept of “low-hanging fruit” in web accessibility which refer
 * Lists
 * Properly ordered headings
 
+![Pennsylvania Hospital](assets/pennsylvania_hospital.jpg)
+
+[Image source](https://www.pennmedicine.org/for-health-care-professionals/fellowship-and-residency-programs/pennsylvania-hospital-programs/residency-programs/pennsylvania-hospital-department-of-internal-medicine)
+
 ---
 
 ## The "low-hanging fruit"
