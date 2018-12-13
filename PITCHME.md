@@ -193,8 +193,7 @@ And then there’s the hard stuff.  The stuff I’m going to cover isn’t neces
 * [Dyslexic typoglycemia simulation in Javascript](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * ["Colorblind" Twitterbot](https://github.com/jakevoytko/colorblind )
 
-![illustration of a desktop computer, a mobile device, and a tablet device]
-(assets/screens.png)
+![illustration of a desktop computer, a mobile device, and a tablet device](assets/screens.png)
 
 Note:
 
