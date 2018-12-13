@@ -122,7 +122,9 @@ There is the concept of “low-hanging fruit” in web accessibility which refer
 
 ---
 
-[image]
+---?image=assets/chalkboard.jpg
+
+[Source](http://www.morguefile.com/archive/display/105605)
 
 Note:
 
