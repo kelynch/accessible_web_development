@@ -309,5 +309,3 @@ Thank you!
 * [WCAG overview](https://www.w3.org/WAI/standards-guidelines/wcag/)
 * [PDF accessibility overview](https://www.adobe.com/accessibility/pdf/pdf-accessibility-overview.html)
 * [Temple University’s guide to accessible purchasing](https://accessibility.temple.edu/guide-accessible-purchasing)
-
----
