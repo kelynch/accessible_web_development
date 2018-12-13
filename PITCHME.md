@@ -148,11 +148,11 @@ After that, what SHOULD be done to make all information truly accessible, ie lin
 
 And finally after that, what, if anything else, CAN be done to make the site more accessible?  Are there decorative images that are properly ignored by the screenreader but should really be in the CSS?  Can you cut down on the number of clicks it takes to do something?  Stuff left for the “can” phase should only be stuff that enhances existing accessibility measures taken.  If it’s required, it’s not a “can,” it’s a “must.”
 
----?image=assets/ramp.jpg
+---
 
 ## The (actual) user experience
 
-[image]
+![accessibility ramp zig-zagging absurdly up a small walkway](assets/ramp.jpg)
 
 Note:
 
@@ -162,7 +162,7 @@ And there’s the actual user experience.  That is, we have these guidelines and
 
 ## Testing with screen readers
 
-[image]
+![screen reader testing software logo](assets/screenreader_testing.png)
 
 Note:
 
@@ -172,7 +172,7 @@ Also, learning how to test with screen readers.  When I first started in web dev
 
 ## Equivalent, not identical
 
-[image]
+![illustration of multiple raised hands](assets/raised_hands.png)
 
 Note:
 
@@ -193,6 +193,9 @@ And then there’s the hard stuff.  The stuff I’m going to cover isn’t neces
 * [Dyslexic typoglycemia simulation in Javascript](http://geon.github.io/programming/2016/03/03/dsxyliea)
 * ["Colorblind" Twitterbot](https://github.com/jakevoytko/colorblind )
 
+![illustration of a desktop computer, a mobile device, and a tablet device]
+(assets/screens.png)
+
 Note:
 
 Testing beyond screen readers.  This is a trap that the best of us have fallen into; we test with a screen reader, if the results are good, the page is accessible.  And it’s true that screen reader technologies are some of the toughest customers when it comes to an equivalent user experience, but this tends to lead us to overly focusing on users with visual impairments and forgetting about others.  
@@ -211,6 +214,8 @@ Really challenge the way you interact with the site and be mindful of how much m
 * [News for Betty](http://newsforbetty.com/)
 * [IDA Dyslexia handbook (Browsealoud demonstration)](https://dyslexiaida.org/ida-dyslexia-handbook/)
 
+![illustration of an archery target with an arrow in the center](assets/target.png)
+
 Note:
 
 Consider the target audience.  The target audience of your site will influence what decisions get made in the “must, should, can” phase.  While baseline levels of accessibility need to exist regardless of the target audience, when the target is more likely to include folks with specific accessibility needs, additional considerations that might otherwise fall into the “should” or “can” categories become a must.  I have some examples linked on the slide here.
@@ -222,9 +227,13 @@ Consider the target audience.  The target audience of your site will influence w
 * Punch lists, cheat sheets
   * [Penn Libraries' web accessibility documentation](https://upenn-libraries.github.io/Accessibility/)
 
+![illustration of a workspace with a desktop computer, tablet, mobile device, coffee mug, and desk lamp](assets/desktop.png)
+
 ---
 
 ## It's OK to not already know this
+
+![illustration of a lightbulb composed of multicolored dots and lines representing intellectual connections](assets/lightbulb.png)
 
 Note:
 
@@ -235,6 +244,8 @@ It’s OK to not already know this.  None of this stuff was taught when I earned
 ## It's OK to not already know this
 
 * ...and it's OK to make mistakes
+
+![illustration of a lightbulb composed of multicolored dots and lines representing intellectual connections](assets/lightbulb.png)
 
 Note:
 
@@ -257,6 +268,8 @@ So, if this is a bit of a downer, I promised you a message of hope.  So here we 
 * Lead by example
 * ...never stop helping someone!
 * Embrace continuous improvement
+
+![illustration of multicolored hands holding the wrist of a hand beside them, forming a circle](assets/helping_hands.png)
 
 Note:
 
