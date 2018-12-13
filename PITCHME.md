@@ -120,11 +120,7 @@ There is the concept of “low-hanging fruit” in web accessibility which refer
   * Equivalent text
   * Captions, transcription
 
----
-
 ---?image=assets/chalkboard.jpg
-
-[Source](http://www.morguefile.com/archive/display/105605)
 
 Note:
 
@@ -152,7 +148,7 @@ After that, what SHOULD be done to make all information truly accessible, ie lin
 
 And finally after that, what, if anything else, CAN be done to make the site more accessible?  Are there decorative images that are properly ignored by the screenreader but should really be in the CSS?  Can you cut down on the number of clicks it takes to do something?  Stuff left for the “can” phase should only be stuff that enhances existing accessibility measures taken.  If it’s required, it’s not a “can,” it’s a “must.”
 
----
+---?image=assets/ramp.jpg
 
 ## The (actual) user experience
 
