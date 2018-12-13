@@ -180,7 +180,7 @@ Finally, this is and remains the most important concept I grasped about accessib
 
 ---
 
-## What I wish I had known earlier: the hard stuff
+# What I wish I had known earlier: the hard stuff
 
 Note:
 
@@ -254,7 +254,7 @@ There’s a lot to learn here, from the basic concepts, to various standards, to
 
 ---
 
-## Conclusion
+# A message of hope
 
 Note:
 
